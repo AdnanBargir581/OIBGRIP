@@ -1,0 +1,30 @@
+*{
+    background-color: beige;
+    color: black;
+}
+
+label{
+    font-size: 18px;
+}
+.container{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.input{
+    border-color: black;
+    font-size: 20px;
+}
+
+.button{
+    background-color: black;
+    color: white;
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+
